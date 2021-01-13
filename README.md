@@ -1,17 +1,16 @@
 # pyjamads.github.io
 
-
 ## Projects
 
-### [Squeezer](https://pyjamads.github.com/Squeezer/)
+### [Squeezer](https://github.com/pyjamads/Squeezer/)
 
 ### Game Jams / [itch.io](https://pyjamads.itch.io/)
 
-### [UnityVGDL](https://pyjamads.github.com/UnityVGDL/)
+### [UnityVGDL](https://github.com/pyjamads/UnityVGDL/)
 
 ## Past Work
 
-### [Glitchnap](https://glitchnap.com/)
+### [Glitchnap](http://glitchnap.com/)
 
 #### [LAZA KNITEZ!!](http://lazaknitez.com/)
 
@@ -19,9 +18,21 @@
 
 #### Free Fur All (We Bear Bears Launch title)
 
-#### Sentree
+#### Sentree (never released)
 
 #### Invert
 
 #### Det Kæmpe Store Trafikspil
 
+### Copenhagen Game Collective
+
+#### PIXELADE
+
+#### Nordic Game Conference 
+- Indie Awards
+- Indie Day 
+- Party Orginization
+
+### Wolfmans (glitchnap / Reign Bros collaboration)
+
+#### BONKELL
